@@ -9,9 +9,9 @@ We provide personalised online and offline tution, video lectures, solved exampl
 2) Class XII / HSC / XII  (CBSE, ICSE, Matriculation Board) 
 3) Engineering - Mathematics papers
 
-Request Link: https://forms.gle/TYyQNznYxLrCwJLb6
+Request Link: <a>  https://forms.gle/TYyQNznYxLrCwJLb6
 
-Please send email for more details : info@ushasacademy.com
+Please send email for more details : <a>  info@ushasacademy.com
 
 
 ### Free Tution 
@@ -20,14 +20,14 @@ Free Maths class avaiable on sunday.
 Class-X : 4PM to 5PM 
 Class-XII : 5PM to 6PM 
 
-Request Link  for Jan2022 Link: https://forms.gle/sMwznWZZjHnGxyDn9
+Request Link  for Jan2022 Link: <a>  https://forms.gle/sMwznWZZjHnGxyDn9
 
-Email to : info@ushasacademy.com
+Email to :  <a>  info@ushasacademy.com
 
 ### Contact
-email: info@ushasacademy.com
+email: <a>  info@ushasacademy.com
 
-Gmap: https://goo.gl/maps/CBm2RE4z71aocm6u9
+Gmap:  <a>  https://goo.gl/maps/CBm2RE4z71aocm6u9
 
 github:
   is_project_page: false
