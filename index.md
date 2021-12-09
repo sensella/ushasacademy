@@ -26,5 +26,8 @@ email to : info@ushasacademy.com
 ### Contact
 email: info@ushasacademy.com
 
-Gmap: 
+Gmap: https://goo.gl/maps/CBm2RE4z71aocm6u9
+
+github:
+  is_project_page: false
 
