@@ -1,6 +1,6 @@
 ## USHASACADEMY
 Ushasacademy is started by Dr.Usharani, Over 25 years of teaching in school and colleges.  
-with a moto to provide best tutor assistance for students to excel in Mathematics.
+with a moto to provide best assistance for students to excel in Mathematics.
 
 
 ### Tution Options
