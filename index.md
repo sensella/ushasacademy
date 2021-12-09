@@ -1,11 +1,17 @@
 ## USHASACADEMY
-Ushasacademy is started by Dr.Usharani in 2021, with a moto to provide best tutor assitance for students to excel in Mathematics.
+Ushasacademy is started by Dr.Usharani, Over 25 years of teaching in school and colleges.  
+with a moto to provide best tutor assistance for students to excel in Mathematics.
 
 
-### Markdown
-We provide personalised online tution for class X - XII  
+### Tution Options
+We provide personalised online and offline tution, video lectures, solved example, practice questions, weekly test, Printed study materials.
 
-Please send email to : info@ushasacademy.com
+1) class X - XII  (CBSE, ICSE, Matriculation Board) 
+2) Class XII / HSC / XII  (CBSE, ICSE, Matriculation Board) 
+3) Engineering - Mathematics papers
+
+Request Link: https://forms.gle/TYyQNznYxLrCwJLb6
+Please send email for more details : info@ushasacademy.com
 
 
 ### Free Tution 
@@ -13,6 +19,9 @@ Please send email to : info@ushasacademy.com
 Free Maths class avaiable on sunday.
 Class-X : 4PM to 5PM 
 Class-XII : 5PM to 6PM 
+
+Request Link  for Jan2022 Link: https://forms.gle/sMwznWZZjHnGxyDn9
+email to : info@ushasacademy.com
 
 ### Contact
 email: info@ushasacademy.com
