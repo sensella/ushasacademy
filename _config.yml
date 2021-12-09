@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 #title: Ushasacademy homepage
 #description: Bookmark this to page for updates!
+github:
+  is_project_page: false
