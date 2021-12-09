@@ -1,9 +1,10 @@
 ## USHASACADEMY
-Ushasacademy is started by Dr.Usharani, Over 25 years of teaching in school and colleges, with a moto to provide best assistance for students to excel in Mathematics.
+Ushasacademy is started by Dr.Usharani with a moto to provide best assistance for students to excel in Mathematics. Over 25 years of teaching experience in top school and colleges in Dharmapuri. 
 
 
 
-#### New batch starting January 2022, regiter using the link before 25 Dec 2021.
+
+#### New batch starting January 2022, register using the link before 25 Dec 2021.
 
 
 
