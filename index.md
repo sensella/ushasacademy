@@ -12,9 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Ushasacademy is started by Dr.Usharani in 2021, with a moto to provide best tutor assitance for students to excel in Mathematics
 ## Header 2
+We provide online tutor for class X - XII  
 ### Header 3
-
+Free tutor class avaiable on sunday.
+Class-X : 4PM to 5PM 
+Class-XII : 5PM to 6PM 
 - Bulleted
 - List
 
