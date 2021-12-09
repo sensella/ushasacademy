@@ -11,6 +11,7 @@ We provide personalised online and offline tution, video lectures, solved exampl
 3) Engineering - Mathematics papers
 
 Request Link: https://forms.gle/TYyQNznYxLrCwJLb6
+
 Please send email for more details : info@ushasacademy.com
 
 
@@ -21,7 +22,8 @@ Class-X : 4PM to 5PM
 Class-XII : 5PM to 6PM 
 
 Request Link  for Jan2022 Link: https://forms.gle/sMwznWZZjHnGxyDn9
-email to : info@ushasacademy.com
+
+Email to : info@ushasacademy.com
 
 ### Contact
 email: info@ushasacademy.com
