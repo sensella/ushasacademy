@@ -1,41 +1,21 @@
-## Welcome to GitHub Pages
+## USHASACADEMY
+Ushasacademy is started by Dr.Usharani in 2021, with a moto to provide best tutor assitance for students to excel in Mathematics.
 
-You can use the [editor on GitHub](https://github.com/sensella/ushasacademy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+We provide personalised online tution for class X - XII  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please send email to : info@ushasacademy.com
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-Ushasacademy is started by Dr.Usharani in 2021, with a moto to provide best tutor assitance for students to excel in Mathematics
-## Header 2
-We provide online tutor for class X - XII  
-### Header 3
-Free tutor class avaiable on sunday.
+### Free Tution 
+
+Free Maths class avaiable on sunday.
 Class-X : 4PM to 5PM 
 Class-XII : 5PM to 6PM 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact
+email: info@ushasacademy.com
 
-**Bold** and _Italic_ and `Code` text
+Gmap: 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sensella/ushasacademy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
