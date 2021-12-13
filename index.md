@@ -1,4 +1,4 @@
-## USHASACADEMY
+## UshasAcademy
 Ushasacademy is started by Dr.Usharani with a moto to provide best assistance for students to excel in Mathematics. Over 25 years of teaching experience in top school and colleges in Dharmapuri. 
 
 
