@@ -16,7 +16,7 @@ We provide personalised online and offline tution, video lectures, solved exampl
 3) Engineering - Mathematics papers <br>
 
 
-<a href="https://forms.gle/TYyQNznYxLrCwJLb6" target="_blank"> 1-1 2021 Jan Registration Link </a> 
+<a href="https://forms.gle/TYyQNznYxLrCwJLb6" target="_blank"> 1-1 2022 Jan Registration Link </a> 
 
 Link: <a>  https://forms.gle/TYyQNznYxLrCwJLb6
 
@@ -29,7 +29,7 @@ Class-X : 4PM to 5PM
 Class-XII : 5PM to 6PM 
 
 
-<a href="https://forms.gle/sMwznWZZjHnGxyDn9" target="_blank"> Free 2021 Jan Registration Link </a> 
+<a href="https://forms.gle/sMwznWZZjHnGxyDn9" target="_blank"> Free 2022 Jan Registration Link </a> 
  
 Link: <a>  https://forms.gle/sMwznWZZjHnGxyDn9
 
